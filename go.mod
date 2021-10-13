@@ -1,4 +1,4 @@
-module awesomeProject
+module github.com/chenfeiyuan/awesomeProject
 
 go 1.17
 
